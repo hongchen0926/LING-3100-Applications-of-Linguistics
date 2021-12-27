@@ -12,7 +12,7 @@ One of the course assignments was writing two paper reviews. Students can choose
 - Evidence that Gendered Wording in Job Advertisements Exists and Sustains Gender Inequality
 - Analyzing the Language of Food on Social Media
 
-Another well-accepted asisgnmnet is the final project presentation, which was organized in the format of "5 Minute Blitz Talk Competition". Students need to present in 5 MINUTES with only 1 PowerPoint slide. The goal is for students to engage all their communication skills to make your presentation vivid and engaging while emphasizing its key point without too much technical terminology or field-specific jargon. 
+Another well-accepted asisgnment is the final project presentation, which was organized in the format of "5 Minute Blitz Talk Competition". Students need to present in 5 MINUTES with only 1 PowerPoint slide. The goal is for students to engage all their communication skills to make your presentation vivid and engaging while emphasizing its key point without too much technical terminology or field-specific jargon. 
 Below is a list of the top three presentations based on the votes by students in the class.
 - Analyzing different language used to describe white and black NFL players by commentators and analyst
 - Evaluating ASL Translation Datasets & Models for Fairness
