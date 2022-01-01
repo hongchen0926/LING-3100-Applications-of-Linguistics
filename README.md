@@ -13,7 +13,7 @@ One of the course assignments was **writing two paper reviews**. Students can ch
 - Analyzing the Language of Food on Social Media
 
 Another well-accepted asisgnment is the final project presentation, which was organized in the format of **5 Minute Blitz Talk Competition**. Students need to present in 5 MINUTES with only 1 PowerPoint slide. The goal is for students to engage all their communication skills to make your presentation vivid and engaging while emphasizing its key point without too much technical terminology or field-specific jargon. 
-Below is a list of the top three presentations based on the votes by students in the class.
+Below is a list of the top five presentations based on the votes by students in the class (the last two projects in this list got the same number of votes).
 - Analyzing different language used to describe white and black NFL players by commentators and analyst
 - Evaluating ASL Translation Datasets & Models for Fairness
 - Natural Language Processing and Social Media
