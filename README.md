@@ -5,14 +5,14 @@ This course (which satisfies an Institute-wide Humanities requirement) explores 
 
 The lecture slides and syllabus as well as list of reading materials were developed from the teaching materials made by Dr. Lelia Glass (https://www.leliaglass.com/teaching). Along with the lecture slides and syllabus, this folder also inclues class reflection questions that were used for student discussion board on Canvas, and a list of articles which students chose from to do their class presentation and two paper reviews. As the number 100 is such a cool number, the list of articles managed to reach the number 100 at the end.
 
-One of the course assignments was writing two paper reviews. Students can choose a paper from the given list of reading materials and a paper beyond the list. Paper review samples were provided. This open-ended assignment turned out to be an assignment that students really like since a lot of them consider such freedom of choosing topics to work on as one of the best aspects of the course. Below is a list of top 5 papers chosen by studnets to do their first paper reviews on.
+One of the course assignments was **writing two paper reviews**. Students can choose a paper from the given list of reading materials and a paper beyond the list. Paper review samples were provided. This open-ended assignment turned out to be an assignment that students really like since a lot of them consider such freedom of choosing topics to work on as one of the best aspects of the course. Below is a list of top 5 papers chosen by studnets to do their first paper reviews on.
 - Pokémonastics: a study in sound symbolism and Pokémon names
 - What’s in a Brand Name? A Note on the Onomastics of Brand Naming
 - No Country for Old Members: User Lifecycle and Linguistic Change in Online Communities
 - Evidence that Gendered Wording in Job Advertisements Exists and Sustains Gender Inequality
 - Analyzing the Language of Food on Social Media
 
-Another well-accepted asisgnment is the final project presentation, which was organized in the format of "5 Minute Blitz Talk Competition". Students need to present in 5 MINUTES with only 1 PowerPoint slide. The goal is for students to engage all their communication skills to make your presentation vivid and engaging while emphasizing its key point without too much technical terminology or field-specific jargon. 
+Another well-accepted asisgnment is the final project presentation, which was organized in the format of** 5 Minute Blitz Talk Competition**. Students need to present in 5 MINUTES with only 1 PowerPoint slide. The goal is for students to engage all their communication skills to make your presentation vivid and engaging while emphasizing its key point without too much technical terminology or field-specific jargon. 
 Below is a list of the top three presentations based on the votes by students in the class.
 - Analyzing different language used to describe white and black NFL players by commentators and analyst
 - Evaluating ASL Translation Datasets & Models for Fairness
